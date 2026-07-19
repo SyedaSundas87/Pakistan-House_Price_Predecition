@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan House Price Predictor",
+  "description": "Predict the estimated market price of residential houses in Pakistan using an XGBoost Machine Learning model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
