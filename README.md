@@ -2,6 +2,9 @@
 
 Predict the estimated market price of residential houses in Pakistan using an XGBoost Machine Learning model.
 
+## App Preview
+![App Preview](screenshot.png)
+
 ## Tech Stack
 - **Frontend**: React + Vite + TailwindCSS + Framer Motion
 - **Backend**: FastAPI + XGBoost + Scikit-Learn
