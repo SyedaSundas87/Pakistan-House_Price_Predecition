@@ -18,9 +18,11 @@
 
 ## 📸 App Preview
 
-![Pakistan House Price Predictor – Prediction Result](screenshot.png)
+![Pakistan House Price Predictor – Hero Section](preview-hero.png)
 
-> *A 3078 sq.ft House in Islamabad with 3 beds & 3 baths predicted at **PKR 1.98 Crore** with 92% confidence.*
+![Pakistan House Price Predictor – Prediction Result](preview-prediction.png)
+
+> *Real-time property value predictions based on current market conditions in Pakistan.*
 
 ---
 
