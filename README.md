@@ -8,6 +8,8 @@
 
 # 🏡 Pakistan House Price Predictor
 
+App live link: https://pakistan-house-price-predictor-eognj7.v2.appdeploy.ai/
+
 **An AI-powered full-stack web application that estimates residential property prices across major cities in Pakistan using a trained XGBoost Machine Learning model.**
 
 [Live Demo](#) · [Report Bug](https://github.com/SyedaSundas87/Pakistan-House_Price_Predecition/issues) · [Request Feature](https://github.com/SyedaSundas87/Pakistan-House_Price_Predecition/issues)
